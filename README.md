@@ -1,6 +1,9 @@
 
 # 🩺 PIMA Diabetes Prediction Using Machine Learning
 
+![Presentation - Diabetes Prediction](https://github.com/user-attachments/assets/641502a9-b13a-4901-9c7f-d2351a6602ec)
+
+
 This project focuses on predicting the onset of diabetes in female Pima Indian patients using machine learning techniques. The objective is to build a robust classifier that can assist in early diagnosis of diabetes using medical diagnostic measurements.
 
 ## 📊 Dataset
